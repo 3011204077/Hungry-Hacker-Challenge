@@ -1,0 +1,7 @@
+Dear sir or madam,
+
+My choice for the challenge phase is Wild Card. I add two clickable link at the bottom of the page. By clicking "Go Wild!" link, you can sign up a membership with your wild card and have some discounts or free dishes (have not been developed yet).
+By clicking "Calculator" link, I implement a simple calculator into the web to help people to calculate the discounts or tips.
+
+Thank you for reviewing,
+Fei Zhao
